@@ -1,2 +1,2 @@
 # DHN
-![alt text](http://url/to/img.png)
+![alt text](assets/ICIC_EXPRESS_2021.png)
